@@ -1,4 +1,4 @@
-`Cursos Introductorio` > `Git`
+`Cursos Introductorio` > `Git & Github`
 
 ## Módulo: Curso Introductorio de Git
 
